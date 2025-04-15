@@ -62,22 +62,22 @@ const dashboard = {
             icon: icons.IconRobot,
             breadcrumbs: true
         },
-        {
-            id: 'credentials',
-            title: 'Credentials',
-            type: 'item',
-            url: '/credentials',
-            icon: icons.IconLock,
-            breadcrumbs: true
-        },
-        {
-            id: 'variables',
-            title: 'Variables',
-            type: 'item',
-            url: '/variables',
-            icon: icons.IconVariable,
-            breadcrumbs: true
-        },
+        // {
+        //     id: 'credentials',
+        //     title: 'Credentials',
+        //     type: 'item',
+        //     url: '/credentials',
+        //     icon: icons.IconLock,
+        //     breadcrumbs: true
+        // },
+        // {
+        //     id: 'variables',
+        //     title: 'Variables',
+        //     type: 'item',
+        //     url: '/variables',
+        //     icon: icons.IconVariable,
+        //     breadcrumbs: true
+        // },
         {
             id: 'apikey',
             title: 'API Keys',
